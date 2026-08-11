@@ -3,7 +3,7 @@
 An interactive HR dashboard built on the IBM HR Analytics Attrition dataset (1,470 employees), 
 designed to help HR teams identify attrition patterns by department, age, education, and gender.
 
-[Dashboard Overview](Dashboard overview.png)
+![Dashboard Overview](Dashboard overview.png)
 
 ## 🔧 Tools Used
 - Excel PivotTables & PivotCharts
